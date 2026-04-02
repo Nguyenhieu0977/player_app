@@ -1,0 +1,31 @@
+name: kiosk_player_app
+description: Kiosk player for Windows/Linux/Raspberry Pi using remote playlist.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: any
+  provider: any
+  dio: any
+  http: ^1.2.2
+  shared_preferences: any
+  path_provider: any
+  window_manager: any
+  media_kit: any
+  media_kit_video: any
+  media_kit_libs_video: any
+  pdfrx: any
+  flutter_inappwebview: any
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: any
+
+flutter:
+  uses-material-design: true

@@ -1,0 +1,40 @@
+{
+  "name": "Playlist demo K7",
+  "items": [
+    {
+      "id": "img-1",
+      "type": "image",
+      "title": "Banner chào mừng",
+      "url": "https://picsum.photos/1280/720",
+      "duration": 12
+    },
+    {
+      "id": "video-1",
+      "type": "video",
+      "title": "Video demo",
+      "url": "https://samplelib.com/lib/preview/mp4/sample-5s.mp4",
+      "duration": 30
+    },
+    {
+      "id": "pdf-1",
+      "type": "pdf",
+      "title": "Tài liệu PDF demo",
+      "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+      "duration": 18
+    },
+    {
+      "id": "web-1",
+      "type": "web",
+      "title": "Trang thông tin",
+      "url": "https://tuoitre.vn",
+      "duration": 20
+    },
+    {
+      "id": "audio-1",
+      "type": "audio",
+      "title": "Âm thanh nền",
+      "url": "https://samplelib.com/lib/preview/mp3/sample-3s.mp3",
+      "duration": 15
+    }
+  ]
+}
